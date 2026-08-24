@@ -3,7 +3,10 @@ Interests: Concerts, vintage clothes, sewing
 
 # Career Goals
 Career goals: Something cybersecurity related?
-(panda.jpg)
+
+# Pic
+[mikudayo3939.github.io](panda.jpg)
+
 
 ## Navigation
 [Notebook](notebook.md)
