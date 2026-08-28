@@ -1,0 +1,21 @@
+:root {
+  --bg-primary: #121214;
+  --bg-secondary: #1d1d22;
+  --accent-bittersweet: #ff6f59;
+  --accent-pastel-pink: #f4acb7;
+  --accent-pastel-peach: #ffcad4;
+  --text-primary: #f8f9fa;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+a {
+  color: var(--accent-bittersweet);
+}
+
+h1, h2, h3 {
+  color: var(--accent-pastel-peach);
+}
