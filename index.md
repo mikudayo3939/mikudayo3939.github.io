@@ -1,3 +1,11 @@
+Markdown
+---
+layout: default
+title: Home
+---
+
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+
 # Welcome to My Portfolio Hello! My name is [C].
 ## Projects
 - Project 1: Description
